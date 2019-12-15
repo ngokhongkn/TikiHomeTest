@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TikiHomeTest</string>
+    <string name="home_hot_keywords">Từ khoá hót</string>
+    <string name="home_error_text">Xãy ra lỗi khi tải dữ liệu!</string>
+</resources>
